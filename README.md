@@ -8,6 +8,7 @@
 `Ctrl+R+G` Sort Usings  
 
 ## Inlay Hints (Resharper)
+[ref](https://www.jetbrains.com/help/resharper/Inline_Parameter_Name_Hints.html)
 
 * ReSharper > Options > Environment > Inlay Hints
 * Change Visibility to Push-to-hint
